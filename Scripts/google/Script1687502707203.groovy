@@ -21,5 +21,7 @@ WebUI.openBrowser('www.google.com')
 
 WebUI.delay(5)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('sample1')
+
 WebUI.closeBrowser()
 
