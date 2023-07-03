@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://katalon-demo-cura.herokuapp.com/')
 
+WebUI.maximizeWindow()
+
 WebUI.delay(3)
 
 WebUI.waitForElementVisible(findTestObject('katalonHealthCareDemoApp/AppointmentPg/btn_makeAppointment'), 10)
