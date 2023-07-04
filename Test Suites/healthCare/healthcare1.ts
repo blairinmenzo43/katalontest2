@@ -15,7 +15,7 @@
       <guid>e824acd9-4ce1-4165-adb7-c26a7ad6afa6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/healthCareApp/makeAnAppointment</testCaseId>
+      <testCaseId>Test Cases/healthCareApp/WelcomePage</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

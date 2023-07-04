@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>makeAnApptmnt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fa89483-808a-4952-b825-1b4a95838735</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>728020bc-fc13-4b63-9e8c-6ef3eb90a002</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a6e18fc-2454-41ad-a3e5-283bcf928895</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17ff976c-e3da-4579-ab1f-ac3e5f1b1be1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>748d7c85-eebf-45f0-9539-39c94af8b36e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tokyo CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>728020bc-fc13-4b63-9e8c-6ef3eb90a002</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'yes'</defaultValue>
+      <description></description>
+      <id>5a6e18fc-2454-41ad-a3e5-283bcf928895</id>
+      <masked>false</masked>
+      <name>applyforHospReadmission</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicade'</defaultValue>
+      <description></description>
+      <id>17ff976c-e3da-4579-ab1f-ac3e5f1b1be1</id>
+      <masked>false</masked>
+      <name>healthcareProgram</name>
+   </variable>
+   <variable>
+      <defaultValue>'test comment'</defaultValue>
+      <description></description>
+      <id>748d7c85-eebf-45f0-9539-39c94af8b36e</id>
+      <masked>false</masked>
+      <name>comments</name>
+   </variable>
+</TestCaseEntity>
